@@ -12,5 +12,6 @@
 ### 十、ClassificationPerformanceMeasures 评价分类结果
 ### 十一、SVM 支撑向量机
 ### 十二、DecisionTree 决策树
-### 十三、EnsembleLearning 集成学习
-### 十四、
+### 十三、EnsembleLearning 集成学习和随机森林
+### 十四、Bayes 贝叶斯
+### 十五、Neural Network 神经网络
